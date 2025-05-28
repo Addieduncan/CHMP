@@ -1,1 +1,1 @@
-Higher-Order Group Synchronization
+## Higher-Order Group Synchronization
